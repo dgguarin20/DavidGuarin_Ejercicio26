@@ -1,0 +1,2 @@
+# DavidGuarin_Ejercicio26
+Metodos Computacionales Avazados
